@@ -3,7 +3,7 @@
     
 Привет! Здесь ты найдешь мои проекты, выполненные в рамках курса "Аналитик данных" от Яндекс.Практикума)
 
-Стек используемых библиотек: `pandas`, `seaborn`, `plotly`, `ipywidgets`, `scipy`, `sklearn`, `lightgbm`, `catboost`.
+Стек используемых библиотек: `pandas`, `seaborn`, `plotly`, `ipywidgets`, `scipy`, `sklearn`, `lightgbm`, `catboost`, `shap`.
 
 <br>
 
