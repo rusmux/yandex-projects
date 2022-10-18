@@ -15,13 +15,13 @@
 
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
-[Исследование](https://rusmux.github.io/yandex-banking/)
+[Исследование](https://rusmux.github.io/yandex-projects/banking.html)
 
-[Jupyter-ноутбук](https://github.com/rusmux/yandex-banking/blob/main/Yandex.Banking.ipynb)
+[Jupyter-ноутбук](Yandex.Banking.ipynb)
 
 <br>
 
-<p aling="center"><img src="https://github.com/rusmux/yandex-banking/blob/main/debt_by_purpose.png"/></p>
+<p aling="center"><img src="debt_by_purpose.png"/></p>
 <h6 align="center">Вероятность возникновения задолжности в зависимости от цели кредита</h6>
 
 <br>
