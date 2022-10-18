@@ -14,7 +14,7 @@
 
 Исследование базируется на исторических данных из открытых источников.
 
-[Исследование](https://rusmux.github.io/yandex-projects/4-games.html)[^1]
+[Исследование](https://rusmux.github.io/yandex-projects/4-games.html)
 
 Во время конвертации jupyter-ноутбука в веб-страницу не сконвертировались 2 графика.
 
@@ -154,6 +154,3 @@
 
 
 * `Rating` — возрастной рейтинг от организации ESRB 
-
-
-[^1]: Из-за использования различных средств визуализации, таких как `plotly` и `catboost.MetricVisualizer`, и комбинирования их с интерактивными виджетами `ipywidgets` jupyter-ноутбук нельзя было полноценно конвертировать в html-файл привычным образом через jupyter nbconvert — графики не отображались. Для переноса исследования на веб-страницу я сохранил jupyter-ноутбук в формате [webarchive](https://en.wikipedia.org/wiki/Webarchive), а дальше сконвертировал его в html-файл с помощью библиотеки [pywebarchive](https://github.com/bmjcode/pywebarchive).
