@@ -24,12 +24,12 @@
 
 <br>
 
-<p align="center"><img src="images/platforms_sales.png" height="auto" width=900></p>
+<p align="center"><img src="images/platforms_sales.png" height="auto" width=1000></p>
 <h6 align="center">Сглаживание динамики продаж нормальным распределением</h6> 
 
 <br>
 
-<p align="center"><img src="images/catboost_models.png" height="auto" width=900></p>
+<p align="center"><img src="images/catboost_models.png" height="auto" width=1000></p>
 <h6 align="center">ShuffleSplit кросс-валидация модели мультирегрессии</h6> 
 
 <br>
