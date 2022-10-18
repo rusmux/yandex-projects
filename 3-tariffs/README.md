@@ -2,13 +2,13 @@
 
 Целью данного исследования является по имеющимся данным определить, какой тариф является для компании наиболее прибыльным.
 
-[Исследование](https://rusmux.github.io/yandex-tariffs/)
+[Исследование](https://rusmux.github.io/yandex-projects/tariffs.html)
 
-[Jupyter-ноутбук](https://github.com/rusmux/yandex-tariffs/tree/main/Yandex.Tariffs.ipynb)
+[Jupyter-ноутбук](Yandex.Tariffs.ipynb)
 
 <br>
 
-<p align="center"><img src="https://github.com/rusmux/yandex-tariffs/blob/main/cities_clustering.png" height="auto" width=800/></p>
+<p align="center"><img src="cities_clustering.png" height="auto" width=800/></p>
 <h6 align="center">Использование PCA/TSNE кластеризации для анализа городов</h6>
 
 <br>

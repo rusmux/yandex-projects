@@ -14,27 +14,27 @@
 
 Исследование базируется на исторических данных из открытых источников.
 
-[Исследование](https://rusmux.github.io/yandex-games/)[^1]
+[Исследование](https://rusmux.github.io/yandex-projects/games.html)[^1]
 
 Во время конвертации jupyter-ноутбука в веб-страницу не сконвертировались 2 графика.
 
-[Jupyter-ноутбук](https://github.com/rusmux/yandex-games/blob/main/Yandex.Games.ipynb)
+[Jupyter-ноутбук](Yandex.Games.ipynb)
 
 Ввиду большого веса ноутбук был сохранен без выводов.
 
 <br>
 
-<p align="center"><img src="images/platforms_sales.png" height="auto" width=700></p>
+<p align="center"><img src="images/platforms_sales.png" height="auto" width=800></p>
 <h6 align="center">Сглаживание динамики продаж нормальным распределением</h6> 
 
 <br>
 
-<p align="center"><img src="images/catboost_models.png" height="auto" width=700></p>
+<p align="center"><img src="images/catboost_models.png" height="auto" width=800></p>
 <h6 align="center">ShuffleSplit кросс-валидация модели мультирегрессии</h6> 
 
 <br>
 
-<p align="center"><img src="images/shap_values.png" height="auto" width=700></p>
+<p align="center"><img src="images/shap_values.png" height="auto" width=800></p>
 <h6 align="center">SHAP-значение оценки критиков для общих продаж</h6> 
 
 <br>

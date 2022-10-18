@@ -10,9 +10,9 @@
 
 * расходы на рекламу
 
-[Исследование](https://rusmux.github.io/yandex-metrics/)
+[Исследование](https://rusmux.github.io/yandex-projects/metrics.html)
 
-[Jupyter-ноутбук](https://github.com/rusmux/yandex-metrics/blob/main/Yandex.Metrics.ipynb)
+[Jupyter-ноутбук](Yandex.Metrics.ipynb)
 
 <p align="center"><img src="images/roi_by_region.png"></p>
 <h6 align="center">Разбиение ROI по регионам</h6>
