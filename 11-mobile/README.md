@@ -10,9 +10,9 @@
 
 * Времени, проводимом в приложении
 
-[Исследование](https://github.com/rusmux/yandex-projects/blob/main/11-mobile/Yandex.Mobile.ipynb)
+[Исследование](https://rusmux.github.io/yandex-projects/mobile.html)
 
-[Презентация по исследованию](https://github.com/rusmux/yandex-projects/blob/main/11-mobile/Yandex.Mobile.pdf)
+[Презентация по исследованию](Yandex.Mobile.pdf)
 
 <p align="center"><img src="images/1.png"></p>
 <p align="center"><img src="images/2.png"></p>
