@@ -2,7 +2,7 @@
 
 Этот проект состоит из 2 частей. В первой части с помощью фреймворков ICE и RICE из списка гипотез выбираются самые перспективные. Вторая часть представляет собой анализ проведенного A/B-теста.
 
-[Проект](https://rusmux.github.io/yandex-projects/ab-test.html)
+[Проект](https://rusmux.github.io/yandex-projects/6-ab-test.html)
 
 <p align="center"><img src="images/1.png"></p>
 <h6 align="center">Расчет ICE и RICE значений для гипотез</h6>
