@@ -2,7 +2,7 @@
 
 Целью данного исследования является по имеющимся данным определить, какой тариф является для компании наиболее прибыльным.
 
-[Исследование](https://rusmux.github.io/yandex-projects/3-tariffs.html)
+[Исследование](https://rusmux.ml/yandex-projects/3-tariffs.html)
 
 [Jupyter-ноутбук](Yandex.Tariffs.ipynb)
 

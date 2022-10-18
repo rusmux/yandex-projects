@@ -10,7 +10,7 @@
 
 * расходы на рекламу
 
-[Исследование](https://rusmux.github.io/yandex-projects/5-metrics.html)
+[Исследование](https://rusmux.ml/yandex-projects/5-metrics.html)
 
 [Jupyter-ноутбук](Yandex.Metrics.ipynb)
 

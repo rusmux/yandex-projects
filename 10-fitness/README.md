@@ -2,7 +2,7 @@
 
 Целью данного исследования является анализ и моделирование оттока клиентов фитнес-центра.
 
-[Исследование](https://rusmux.github.io/yandex-projects/10-fitness.html)
+[Исследование](https://rusmux.ml/yandex-projects/10-fitness.html)
 
 <br>
 
