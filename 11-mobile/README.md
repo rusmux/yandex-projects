@@ -10,7 +10,7 @@
 
 * Времени, проводимом в приложении
 
-[Исследование](https://rusmux.github.io/yandex-projects/11-mobile.html)
+[Исследование](https://rusmux.ml/yandex-projects/11-mobile.html)
 
 [Презентация по исследованию](Yandex.Mobile.pdf)
 

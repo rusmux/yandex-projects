@@ -14,7 +14,7 @@
 
 Исследование базируется на исторических данных из открытых источников.
 
-[Исследование](https://rusmux.github.io/yandex-projects/4-games.html)
+[Исследование](https://rusmux.ml/yandex-projects/4-games.html)
 
 [Jupyter-ноутбук](Yandex.Games.ipynb)
 

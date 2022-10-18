@@ -7,7 +7,7 @@
 
 * Проанализировать результаты теста
 
-[Исследование](https://rusmux.github.io/yandex-projects/12-ab-test.html)
+[Исследование](https://rusmux.ml/yandex-projects/12-ab-test.html)
 
 **Описание теста:**
 

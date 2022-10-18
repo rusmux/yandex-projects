@@ -15,7 +15,7 @@
 
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
-[Исследование](https://rusmux.github.io/yandex-projects/1-banking.html)
+[Исследование](https://rusmux.ml/yandex-projects/1-banking.html)
 
 [Jupyter-ноутбук](Yandex.Banking.ipynb)
 
