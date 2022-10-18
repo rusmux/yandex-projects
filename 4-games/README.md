@@ -24,17 +24,17 @@
 
 <br>
 
-<p align="center"><img src="images/platforms_sales.png" height="auto" width=700></p>
+<p align="center"><img src="images/platforms_sales.png" height="auto" width=800></p>
 <h6 align="center">Сглаживание динамики продаж нормальным распределением</h6> 
 
 <br>
 
-<p align="center"><img src="images/catboost_models.png" height="auto" width=700></p>
+<p align="center"><img src="images/catboost_models.png" height="auto" width=800></p>
 <h6 align="center">ShuffleSplit кросс-валидация модели мультирегрессии</h6> 
 
 <br>
 
-<p align="center"><img src="images/shap_values.png" height="auto" width=700></p>
+<p align="center"><img src="images/shap_values.png" height="auto" width=800></p>
 <h6 align="center">SHAP-значение оценки критиков для общих продаж</h6> 
 
 <br>
