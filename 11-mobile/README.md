@@ -15,7 +15,8 @@
 [Презентация по исследованию](https://github.com/rusmux/yandex-projects/blob/main/11-mobile/Yandex.Mobile.pdf)
 
 <p align="center"><img src="images/1.png"></p>
-<h6 align="center">Расчет ICE и RICE значений для гипотез</h6>
+<p align="center"><img src="images/2.png"></p>
+<p align="center"><img src="images/3.png"></p>
 
 <br>
 
