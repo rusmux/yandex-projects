@@ -2,9 +2,9 @@
 
 Данное исследование ставит перед собой цель по открытым данным проанализировать рынок заведений общественного питания Москвы.
 
-<a href="https://rusmux.github.io/yandex-restaurants/" target="_blank">Исследование</a>
+<a href="https://rusmux.github.io/yandex-projects/restaurants.html" target="_blank">Исследование</a>
 
-<a href="https://github.com/rusmux/yandex-restaurants/blob/main/Yandex.Restaurants.pdf" target="_blank">Презентация по исследованию</a>
+<a href="Yandex.Restaurants.pdf" target="_blank">Презентация по исследованию</a>
 
 В исследовании используются внешние данные, получение которых может суммарно занять до 60 минут. Для удобства эти данные были сохранены в файлах `google_data.csv` и `mapbox_data.csv`. Код для получения этих данных был закомментирован, для самостоятельного получения данных раскомментируйте его.
 
