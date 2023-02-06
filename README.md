@@ -14,7 +14,7 @@ Pandas, Numpy, SciPy
 
 ### Машинное обучение
 
-scikit-learn, CatBoost, LightGBM, SHAP, Optuna, UMAP
+scikit-learn, CatBoost, LightGBM, SHAP, UMAP
 
 ### Визуализация
 
